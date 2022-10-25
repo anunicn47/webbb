@@ -52,10 +52,10 @@ body, body * {
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 70px;
   color: #000;
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 @media (min-width: 419px) {
   h1 {
